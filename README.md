@@ -1,7 +1,15 @@
 ## Hi there 👋,
-### Eu sou o Gabriel
+### Eu sou o Gabriel, 
+estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais, amante de tecnologia! 
 
-Estudante e paixonado pela Ciência da Computação, os repositórios a seguir representam de tudo um pouco do que estudo e aprendo, tanto na faculdade como fora. Sou um amante da tecnologia e tenho muito prazer em aprender coisas novas, então que esses repositórios seja mais claro em mostrar pra você aquilo que já fiz e o que estou aprendendo hoje em dia.
+### Atualmente
+- Computer Science @ IFNMG - Montes Claros
+- Explorando novas tecnologias para fullstack
+- Aprendendo mais sobre: Inteligência artifical, e linguagens {C# e Dart}
+
+### Conhecimentos
+{C, C++, Java, PhP(Laravel), JavaScript, NodeJS }
+
 
 <div>
   <a href="https://github.com/gabrielsizilio">
