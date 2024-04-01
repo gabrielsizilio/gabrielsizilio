@@ -8,7 +8,7 @@ estudante de Ciência da Computação no Instituto Federal do Norte de Minas Ger
 - Aprendendo mais sobre: Inteligência artifical, e linguagens {C# e Dart}
 
 ### Conhecimentos
-{C, C++, Java, PhP(Laravel), JavaScript, NodeJS }
+{C, C++, Java, PHP(Laravel), JavaScript, NodeJS }
 
 
 <div>
