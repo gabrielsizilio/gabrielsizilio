@@ -5,10 +5,9 @@ estudante de Ciência da Computação no Instituto Federal do Norte de Minas Ger
 ### Atualmente
 - Computer Science @ IFNMG - Montes Claros
 - Explorando novas tecnologias para fullstack
-- Aprendendo mais sobre: Inteligência artifical, e linguagens {C# e Dart}
 
 ### Conhecimentos
-{C, C++, Java, Spring, PHP(Laravel), JavaScript, NodeJS, Vue.js }
+{C, C++, Java, Spring, PHP, JavaScript, NodeJS, Vue.js }
 
 
 <div>
