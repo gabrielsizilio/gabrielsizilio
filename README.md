@@ -29,6 +29,6 @@
 ---
 
 ### 📫 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/gabrielsizilio)
+- [LinkedIn:Gabriel Sizilio](https://www.linkedin.com/in/gabrielsizilio)
 
 ---
